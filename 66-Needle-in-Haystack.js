@@ -1,5 +1,5 @@
 // WPU Coding Challenge 2024
-// 65/366
+// 66/366
 // https://www.codewars.com/kata/56676e8fabd2d1ff3000000c/train/javascript
 
 /* Cara 1 */
